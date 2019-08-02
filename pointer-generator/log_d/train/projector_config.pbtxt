@@ -1,0 +1,4 @@
+embeddings {
+  tensor_name: "seq2seq/embedding/embedding:0"
+  metadata_path: "/home/kakkineni/project/pointer-generator/log_d/train/vocab_metadata.tsv"
+}
