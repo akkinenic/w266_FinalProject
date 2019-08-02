@@ -2,3 +2,4 @@
 model.ckpt*
 best_model.ckpt.*
 events.out.tfevents*
+model-27703*
