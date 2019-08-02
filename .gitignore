@@ -1,1 +1,3 @@
-//
+.csv
+model.ckpt*
+best_model.ckpt.*
